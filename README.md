@@ -12,7 +12,7 @@ This repository contains a simple API built with Go and Fiber to insert data int
 Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/fernandogenerato/go-bigquery-csv.git
 ```
 Install dependencies:
 ```bash
